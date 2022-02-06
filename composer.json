@@ -1,0 +1,21 @@
+{
+  "name": "derrick/composer-study",
+  "description": "學習 Laravel 底層",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Derrick",
+      "email": "as55518010@yahoo.com.tw"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "classmap": [
+      "Package"
+    ]
+  },
+  "require-dev": {
+    "symfony/var-dumper": "5.4.x-dev"
+  }
+}
